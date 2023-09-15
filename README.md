@@ -9,6 +9,7 @@ Usage: googlesearch.py
 Setup
 
 git clone https://github.com/OxM0le/googlesearch.git
+
 sudo pip install -r requirements.txt
 chmod 755 googlesearch.py 
 
